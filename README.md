@@ -23,7 +23,10 @@ COVID-19 outbreak has created a lot of tension and misery to many families acros
 
 Here in this project we will be using OPENCV and Artificial Intelligence. 
 
-Webcam is used to capture the video and detect people in real-time. If people are very close to each other, a red bounding box is displayed around them indicating that they are not maintaining social distance. 
+Webcam is used to capture the video and detect people in real-time. If people are very close to each other, a red bounding box is displayed around them indicating that they are not maintaining social distance. Red bounding boxes indicate that the person is in the proximity of another person and the blue box indicates the person is maintaining social distance.So there are a few ideas on how this application can be improved :
+
+I have come across a few approaches where people convert a video into a top view or birds’ eye view and then compute the distance between two objects in an image
+Bring Camera Calibration into consideration
 
 ## Final working of project
 
