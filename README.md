@@ -24,3 +24,7 @@ COVID-19 outbreak has created a lot of tension and misery to many families acros
 Here in this project we will be using OPENCV and Artificial Intelligence. 
 
 Webcam is used to capture the video and detect people in real-time. If people are very close to each other, a red bounding box is displayed around them indicating that they are not maintaining social distance. 
+
+## Final working of project
+
+![social_distance](social_distance.gif)
