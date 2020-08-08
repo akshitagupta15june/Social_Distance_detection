@@ -27,4 +27,4 @@ Webcam is used to capture the video and detect people in real-time. If people ar
 
 ## Final working of project
 
-![social_distance](social_distance.gif)
+![social_distance_detctor](social_distance_detctor.gif)
