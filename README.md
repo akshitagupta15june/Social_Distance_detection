@@ -9,7 +9,7 @@ PROJECT NAME
 
 Social Distancing – the term that has taken the world by storm and is transforming the way we live. Social distancing has become a mantra around the world, transcending languages and cultures. 
 
-COVID-19 outbreak has created a lot of tension and misery to many families across the globe. During this pandemic, people are advised to not be in close contact with others to reduce the spread of the disease. But there are still many humans who are negligent about this disease by not maintaining social distance.  
+COVID-19(Coronavirus) outbreak has created a lot of tension and misery to many families across the globe. During this pandemic, people are advised to not be in close contact with others to reduce the spread of the disease. But there are still many humans who are negligent about this disease by not maintaining social distance.  
 
 ### PROJECT GOAL 
 
