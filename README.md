@@ -1,7 +1,7 @@
 
 PROJECT NAME  
 
-# Social Distance Detection using OpenCV and AI 
+# Social Distance Monitoring using OpenCV and AI during Post Covid.
 
  
 
